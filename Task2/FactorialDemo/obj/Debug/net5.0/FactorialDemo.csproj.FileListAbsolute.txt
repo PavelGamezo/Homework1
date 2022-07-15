@@ -1,0 +1,16 @@
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\bin\Debug\net5.0\FactorialDemo.exe
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\bin\Debug\net5.0\FactorialDemo.deps.json
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\bin\Debug\net5.0\FactorialDemo.runtimeconfig.json
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\bin\Debug\net5.0\FactorialDemo.runtimeconfig.dev.json
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\bin\Debug\net5.0\FactorialDemo.dll
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\bin\Debug\net5.0\ref\FactorialDemo.dll
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\bin\Debug\net5.0\FactorialDemo.pdb
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.csproj.AssemblyReference.cache
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.AssemblyInfoInputs.cache
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.AssemblyInfo.cs
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.csproj.CoreCompileInputs.cache
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.dll
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\ref\FactorialDemo.dll
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.pdb
+D:\Программирование\TeachMeSkills\Homeworks\Homework1\Task2\FactorialDemo\obj\Debug\net5.0\FactorialDemo.genruntimeconfig.cache
